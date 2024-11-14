@@ -1,4 +1,4 @@
-# Ex03 Django ORM Web Application
+# Ex02 Django ORM Web Application
 # Name: Piritharaman R
 # Reg no: 212223230148
 ## Date: 25-09-2024
